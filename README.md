@@ -5,7 +5,7 @@
 **Desenvolvedor · Steam tools · Bots · Automação**
 
 [![GitHub followers](https://img.shields.io/github/followers/isnanno?label=seguidores&style=flat-square)](https://github.com/isnanno)
-[![Steam](https://img.shields.io/badge/Steam-ecossistema-1B2838?logo=steam&logoColor=white)](https://store.steampowered.com)
+[![Steam](https://img.shields.io/badge/Steam-isnanno-1B2838?logo=steam&logoColor=white)](https://steamcommunity.com/id/isnanno/)
 [![Square Cloud](https://img.shields.io/badge/deploy-Square%20Cloud-5865F2)](https://squarecloud.app)
 
 </div>
