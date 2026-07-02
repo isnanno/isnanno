@@ -49,6 +49,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web*
 | Projeto | Descrição |
 |---------|-----------|
 | [nanno-painel](https://github.com/isnanno/nanno-painel) | NannoMail — e-mail temporário com API e painel admin |
+| [StellarMoney](https://github.com/isnanno/StellarMoney) | Metas financeiras e assinaturas mensais — visual Stellar Blade, Node.js + SQLite |
 | [yorha-image](https://github.com/isnanno/yorha-image) | Gerador de imagens com IA — tema NieR / YoRHa |
 
 ---
