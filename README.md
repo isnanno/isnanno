@@ -23,9 +23,6 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web*
 | Projeto | Descrição |
 |---------|-----------|
 | [ASFAchievementManager-PT](https://github.com/isnanno/ASFAchievementManager-PT) | Plugin ASF — conquistas Steam em português com desbloqueio progressivo |
-| [luatools-steam-plugin](https://github.com/isnanno/luatools-steam-plugin) | Plugin Millennium/LuaTools para scripts Lua e fixes |
-| [virtuous-steam-installer](https://github.com/isnanno/virtuous-steam-installer) | Instalador GUI Windows para scripts Lua na Steam |
-| [sushiproxy](https://github.com/isnanno/sushiproxy) | Proxy Express para distribuir ZIPs de scripts via GitHub API |
 | [stellar-blade-mod-installer](https://github.com/isnanno/stellar-blade-mod-installer) | Instalador GUI de mods para Stellar Blade |
 | [stellar-blade-mod-server](https://github.com/isnanno/stellar-blade-mod-server) | API REST para catálogo e distribuição de mods |
 | [steam-collage-maker](https://github.com/isnanno/steam-collage-maker) | Colagens PNG de capas via SteamGridDB |
