@@ -26,6 +26,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web*
 | [stellar-blade-mod-installer](https://github.com/isnanno/stellar-blade-mod-installer) | Instalador GUI de mods para Stellar Blade |
 | [stellar-blade-mod-server](https://github.com/isnanno/stellar-blade-mod-server) | API REST para catálogo e distribuição de mods |
 | [steam-collage-maker](https://github.com/isnanno/steam-collage-maker) | Colagens PNG de capas via SteamGridDB |
+| [steam-text-design-generator](https://github.com/isnanno/steam-text-design-generator) | Gerador de layouts de texto para perfil Steam — BBCode, preview WYSIWYG e IA |
 | [xoutput-keyboard-preset](https://github.com/isnanno/xoutput-keyboard-preset) | Preset PT-BR teclado → gamepad para XOutput |
 
 ---
