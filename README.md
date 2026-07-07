@@ -40,6 +40,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web*
 | [shiro-bot](https://github.com/isnanno/shiro-bot) | RPG anime para grupos no WhatsApp |
 | [bayonettinha-telegram-bot](https://github.com/isnanno/bayonettinha-telegram-bot) | Telegram — downloads, Gofile, créditos e VIP via PIX |
 | [whatsapp-fake-voice](https://github.com/isnanno/whatsapp-fake-voice) | Extensão Chrome — áudio local como voz no WhatsApp Web |
+| [google-photos-unfiled-to-album](https://github.com/isnanno/google-photos-unfiled-to-album) | Userscript Tampermonkey — adiciona fotos e vídeos **sem álbum** em lote a um álbum no Google Fotos |
 
 ---
 
