@@ -22,6 +22,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 
 | Projeto | Descrição |
 |---------|-----------|
+| [**Steam Art Manager**](https://github.com/isnanno/Steam-Art-Manager) | App desktop (**Tauri + Svelte**) para gerenciar artwork da biblioteca Steam via SteamGridDB — grids, capsules, heroes, logos e ícones · [Download v3.17.5](https://github.com/isnanno/Steam-Art-Manager/releases/tag/v3.17.5) |
 | [**moonlight-qt-mlmc-mic**](https://github.com/isnanno/moonlight-qt-mlmc-mic) | Fork **Moonlight Qt 6.1** com pass-through de microfone via UDP (protocolo MLMC, porta 9000) — mod por **Nanno** · [Download v6.1.0-mlmc](https://github.com/isnanno/moonlight-qt-mlmc-mic/releases/tag/v6.1.0-mlmc) |
 
 ---
@@ -38,6 +39,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 
 | Projeto | Descrição |
 |---------|-----------|
+| [Steam-Art-Manager](https://github.com/isnanno/Steam-Art-Manager) | **SARM** — gerenciador de artwork Steam (grids, wide capsule, hero, logo, icon), busca SteamGridDB, aplicar em lote e gerar artes aleatórias por filtro |
 | [ASFAchievementManager-PT](https://github.com/isnanno/ASFAchievementManager-PT) | Plugin ASF — conquistas Steam em português com desbloqueio progressivo |
 | [stellar-blade-mod-installer](https://github.com/isnanno/stellar-blade-mod-installer) | Instalador GUI de mods para Stellar Blade |
 | [stellar-blade-mod-server](https://github.com/isnanno/stellar-blade-mod-server) | API REST para catálogo e distribuição de mods |
@@ -72,7 +74,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 
 ## Stack frequente
 
-`Node.js` · `Python` · `TypeScript` · `React` · `Express` · `Baileys` · `C#` · `C++` · `Qt` · `Square Cloud`
+`Node.js` · `Python` · `TypeScript` · `Rust` · `Svelte` · `Tauri` · `React` · `Express` · `Baileys` · `C#` · `C++` · `Qt` · `Square Cloud`
 
 ---
 
