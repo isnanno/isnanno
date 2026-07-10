@@ -14,7 +14,23 @@
 
 ## Sobre
 
-Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web**. A maioria dos repositórios é privada; abaixo estão os destaques organizados por área.
+Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **ferramentas web**. A maioria dos repositórios é privada; abaixo estão os destaques organizados por área.
+
+---
+
+## Destaque
+
+| Projeto | Descrição |
+|---------|-----------|
+| [**moonlight-qt-mlmc-mic**](https://github.com/isnanno/moonlight-qt-mlmc-mic) | Fork **Moonlight Qt 6.1** com pass-through de microfone via UDP (protocolo MLMC, porta 9000) — mod por **Nanno** · [Download v6.1.0-mlmc](https://github.com/isnanno/moonlight-qt-mlmc-mic/releases/tag/v6.1.0-mlmc) |
+
+---
+
+## Streaming & cliente
+
+| Projeto | Descrição |
+|---------|-----------|
+| [moonlight-qt-mlmc-mic](https://github.com/isnanno/moonlight-qt-mlmc-mic) | Cliente Moonlight portátil (Windows) — microfone paralelo ao stream nativo Sunshine/Moonlight, sem alterar o protocolo RTP |
 
 ---
 
@@ -56,7 +72,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots** e **ferramentas web*
 
 ## Stack frequente
 
-`Node.js` · `Python` · `TypeScript` · `React` · `Express` · `Baileys` · `C#` · `Square Cloud`
+`Node.js` · `Python` · `TypeScript` · `React` · `Express` · `Baileys` · `C#` · `C++` · `Qt` · `Square Cloud`
 
 ---
 
