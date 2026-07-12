@@ -35,7 +35,6 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | [stellar-blade-mod-installer](https://github.com/isnanno/stellar-blade-mod-installer) | Instalador GUI de mods para Stellar Blade | Privado |
 | [stellar-blade-mod-server](https://github.com/isnanno/stellar-blade-mod-server) | API REST para catálogo e distribuição de mods | Privado |
 | [steam-collage-maker](https://github.com/isnanno/steam-collage-maker) | Colagens PNG de capas via SteamGridDB | Privado |
-| [steam-text-design-generator](https://github.com/isnanno/steam-text-design-generator) | Gerador de layouts de texto para perfil Steam — BBCode, preview WYSIWYG e IA | Público |
 | [xoutput-keyboard-preset](https://github.com/isnanno/xoutput-keyboard-preset) | Preset PT-BR teclado → gamepad para XOutput | Público |
 | [game-inventory](https://github.com/isnanno/game-inventory) | **Lineage Piece** — painel Flask para gerenciar sets e materiais, com cálculo automático de sets completos | Privado |
 
@@ -58,6 +57,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | Projeto | Descrição | Visibilidade |
 |---------|-----------|--------------|
 | [nanno-painel](https://github.com/isnanno/nanno-painel) | NannoMail — e-mail temporário com API e painel admin | Privado |
+| [steam-text-design-generator](https://github.com/isnanno/steam-text-design-generator) | Gerador de layouts de texto para perfil Steam — BBCode, preview WYSIWYG e IA | Público |
 | [StellarMoney](https://github.com/isnanno/StellarMoney) | Metas financeiras e assinaturas mensais — visual Stellar Blade, Node.js + SQLite | Privado |
 | [yorha-image](https://github.com/isnanno/yorha-image) | Gerador de imagens com IA — tema NieR / YoRHa | Privado |
 | [roblox-showcase](https://github.com/isnanno/roblox-showcase) | Showcase de conta Roblox — progresso em jogos, gastos em Robux e painel admin (Next.js + Prisma) | Privado |
