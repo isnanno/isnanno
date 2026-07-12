@@ -37,6 +37,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | [steam-collage-maker](https://github.com/isnanno/steam-collage-maker) | Colagens PNG de capas via SteamGridDB |
 | [steam-text-design-generator](https://github.com/isnanno/steam-text-design-generator) | Gerador de layouts de texto para perfil Steam — BBCode, preview WYSIWYG e IA |
 | [xoutput-keyboard-preset](https://github.com/isnanno/xoutput-keyboard-preset) | Preset PT-BR teclado → gamepad para XOutput |
+| [game-inventory](https://github.com/isnanno/game-inventory) | **Lineage Piece** — painel Flask para gerenciar sets e materiais, com cálculo automático de sets completos |
 
 ---
 
@@ -60,6 +61,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | [nanno-painel](https://github.com/isnanno/nanno-painel) | NannoMail — e-mail temporário com API e painel admin |
 | [StellarMoney](https://github.com/isnanno/StellarMoney) | Metas financeiras e assinaturas mensais — visual Stellar Blade, Node.js + SQLite |
 | [yorha-image](https://github.com/isnanno/yorha-image) | Gerador de imagens com IA — tema NieR / YoRHa |
+| [roblox-showcase](https://github.com/isnanno/roblox-showcase) | Showcase de conta Roblox — progresso em jogos, gastos em Robux e painel admin (Next.js + Prisma) |
 
 ---
 
