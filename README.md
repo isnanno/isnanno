@@ -14,16 +14,7 @@
 
 ## Sobre
 
-Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **ferramentas web**. A maioria dos repositórios é privada; abaixo estão os destaques organizados por área.
-
----
-
-## Destaque
-
-| Projeto | Descrição |
-|---------|-----------|
-| [**Steam Art Manager**](https://github.com/isnanno/Steam-Art-Manager) | App desktop (**Tauri + Svelte**) para gerenciar artwork da biblioteca Steam via SteamGridDB — grids, capsules, heroes, logos e ícones · [Download v3.17.5](https://github.com/isnanno/Steam-Art-Manager/releases/tag/v3.17.5) |
-| [**moonlight-qt-mlmc-mic**](https://github.com/isnanno/moonlight-qt-mlmc-mic) | Fork **Moonlight Qt 6.1** com pass-through de microfone via UDP (protocolo MLMC, porta 9000) — mod por **Nanno** · [Download v6.1.0-mlmc](https://github.com/isnanno/moonlight-qt-mlmc-mic/releases/tag/v6.1.0-mlmc) |
+Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **ferramentas web**. A maioria dos repositórios é privada; abaixo estão os projetos organizados por área.
 
 ---
 
