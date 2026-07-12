@@ -45,7 +45,7 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | Projeto | Descrição |
 |---------|-----------|
 | [diana-whatsapp](https://github.com/isnanno/diana-whatsapp) | **Diana** — bot WhatsApp multipropósito: downloads (Spotify, SoundCloud, YouTube), moderação, RPG, menus e mais (Baileys v10) |
-| [diana-bot](https://github.com/isnanno/diana-bot) | Versão anterior — download de vídeos e upload ao Google Photos |
+| [diana-private](https://github.com/isnanno/diana-private) | Versão anterior — download de vídeos e upload ao Google Photos |
 | [shiro-bot](https://github.com/isnanno/shiro-bot) | RPG anime para grupos no WhatsApp |
 | [bayonettinha-telegram-bot](https://github.com/isnanno/bayonettinha-telegram-bot) | Telegram — downloads, Gofile, créditos e VIP via PIX |
 | [whatsapp-fake-voice](https://github.com/isnanno/whatsapp-fake-voice) | Extensão Chrome — áudio local como voz no WhatsApp Web |
