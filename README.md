@@ -49,7 +49,6 @@ Projetos pessoais em torno de **Steam**, **mods**, **bots**, **streaming** e **f
 | [diana-private](https://github.com/isnanno/diana-private) | Versão anterior — download de vídeos e upload ao Google Photos | Privado |
 | [shiro-bot](https://github.com/isnanno/shiro-bot) | RPG anime para grupos no WhatsApp | Privado |
 | [bayonettinha-telegram-bot](https://github.com/isnanno/bayonettinha-telegram-bot) | Telegram — downloads, Gofile, créditos e VIP via PIX | Privado |
-| [whatsapp-fake-voice](https://github.com/isnanno/whatsapp-fake-voice) | Extensão Chrome — áudio local como voz no WhatsApp Web | Privado |
 | [google-photos-unfiled-to-album](https://github.com/isnanno/google-photos-unfiled-to-album) | Extensão Chrome + userscript — adiciona fotos e vídeos **sem álbum** em lote a um álbum no Google Fotos | Privado |
 
 ---
